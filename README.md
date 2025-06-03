@@ -12,6 +12,15 @@ I'm a passionate Computer Science and Engineering student with a keen interest i
 
 ---
 
+## 🌐 Online Presence
+
+- **Personal Website:** [weizhang45.com](https://weizhang45.com/)  
+- **Project Showcase:** [weizproject.ddns.net](http://weizproject.ddns.net/)
+- **GitHub:** [github.com/weiz-me](https://github.com/weiz-me)  
+- **LinkedIn:** [linkedin.com/in/weizhang45](https://www.linkedin.com/in/weizhang45/)  
+
+---
+
 ## 💼 Experience
 
 - **Computer Science Student at Columbia University**  
@@ -35,15 +44,6 @@ Here are some of the projects I've worked on:
 
 - [**Tracking_Job_AP**](https://github.com/weiz-me/Tracking_Job_AP)  
   A JavaScript application to track job applications and manage the job search process efficiently.
-
----
-
-## 🌐 Online Presence
-
-- **Personal Website:** [weizhang45.com](https://weizhang45.com/)  
-- **Project Showcase:** [weizproject.ddns.net](http://weizproject.ddns.net/)
-- **GitHub:** [github.com/weiz-me](https://github.com/weiz-me)  
-- **LinkedIn:** [linkedin.com/in/weizhang45](https://www.linkedin.com/in/weizhang45/)  
 
 ---
 
