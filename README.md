@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate Computer Science and Engineering student with a keen interest in Machine Learning, Artificial Intelligence, and Software Engineering. I enjoy exploring new technologies and applying them to solve real-world problems.
+I'm a passionate Computer Science and Engineering New Grad with a keen interest in Machine Learning, Artificial Intelligence, and Software Engineering. I enjoy exploring new technologies and applying them to solve real-world problems.
 
 ---
 
@@ -24,7 +24,7 @@ I'm a passionate Computer Science and Engineering student with a keen interest i
 ## 💼 Experience
 
 - **Computer Science Student at Columbia University**  
-  Currently pursuing my studies in Computer Science at Columbia University, where I focus on courses and projects related to AI and software development.  
+Recently graduated with a degree in Computer Science from Columbia University, with a focus on artificial intelligence and software development.
   🔗 [LinkedIn](https://www.linkedin.com/in/weizhang45/)
 
 ---
